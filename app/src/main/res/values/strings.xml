@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="nickname">nickname</string>
+    <string name="api_endpoint_questions">http://zoran.ogosense.net/api/get-questions</string>
+    <string name="api_endpoint_leaderboard">http://zoran.ogosense.net/api/get-leaderboard</string>
+    <string name="api_endpoint_set_score">http://zoran.ogosense.net/api/set-score</string>
+</resources>
